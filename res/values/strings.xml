@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CourseWork</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_user_name">Enter UserName...</string>
+    <string name="hint_password">Enter Password ..</string>
+    <string name="btn_reg">Register</string>
+    <string name="btn_log_in">Log In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="reg_password_again">EnterPassword Again</string>
+    <string name="reg_stud_id">Enter Student Number...</string>
+    <string-array name="reg_spinner_items">
+        <item >Parent/Guardian</item>
+        <item >Tutor/Teacher</item>
+    </string-array>
+    <string name="reg_spinner_prompt">Choose Account Type</string>
+    <string name="tab_timeTable">Timetable</string>
+    <string name="tab_attendance">Attendance</string>
+    <string name="contact_dets">Contact Details</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="course_progress">Course Progress</string>
+    <string name="send_message">Send Message</string>
+    <string name="hint_address">Enter Your Address ...</string>
+    <string name="hint_enter_name">Enter Your Preferred Name ...</string>
+    <string name="hint_tel_no">Enter Your Tel No</string>
+    <string name="btn_p_submit">Submit Details</string>
+    <string-array name="courses">
+        <item >math</item>
+        <item >statistics</item>
+        <item >biology</item>
+        <item >religious studies</item>
+        <item >music studies</item>
+        <item >theological studies</item>
+        <item >arts </item>
+        <item >glasswork</item>
+        <item >clay work</item>
+        <item >Remedial class</item>
+    </string-array>
+    <string-array name="dates">
+        <item >22/04/2014</item>
+        <item >23/04/2014</item>
+        <item >25/04/2014</item>
+        <item >26/04/2014</item>
+        <item >27/04/2014</item>
+        <item >28/04/2014</item>
+        <item >29/04/2014</item>
+        <item >30/04/2014</item>
+        <item >31/04/2014</item>
+        <item >1/05/2014</item>
+    </string-array>
+
+</resources>
